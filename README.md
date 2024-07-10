@@ -1,5 +1,5 @@
 # Short Overview
-As you are aware, I am nearing the completion of my Bachelor of Science in Computer Science at ADA University, with an anticipated graduation date of May 2024. Throughout my academic tenure, I have dedicated myself to excellence in various realms of computer science, notably in Data Science, Cybersecurity, and Network Operations.
+Graduate of Bachelor of Science in Computer Science at ADA University, with an anticipated graduation date of May 2024. Throughout my academic tenure, I have dedicated myself to excellence in various realms of computer science, notably in Data Science, Cybersecurity, and Network Operations.
 
 * Academic and Professional Background:
 
@@ -12,7 +12,7 @@ As you are aware, I am nearing the completion of my Bachelor of Science in Compu
     Wazuh for Integrity Monitoring and Security Configuration Assessment: Wazuh, an open-source security platform, was employed to perform file integrity monitoring and security configuration assessments, providing continuous surveillance and vulnerability identification within the network.
 
 
-    * Internship at ABB: As a Network Operations Center Analyst Intern, I utilized advanced monitoring tools such as Wazuh, Zabbix, and Dynatrace, and supported Active Directory services. This role allowed me to develop crucial skills in maintaining and securing vital network resources, which are pivotal in a high-stakes financial environment.
+    * Internship at ABB: As a Network Operations Center Analyst Intern, IT Helpdesk and other departments: I utilized advanced monitoring tools such as PaloAlto, Splunk, Dynatrace, and supported Active Directory services. These roles allowed me to develop crucial skills in maintaining and securing vital network resources, which are pivotal in a high-stakes financial environment.
 
     * Data Analyst at BestComp Group: My role involved significant research and data analysis, where I prepared extensive reports on industry trends, further honing my data management and analytical skills. Also have actively participated in projects such as developing an OCR model for license number recognition and training a YOLOv5 object detection model aimed at detecting license plates. These experiences have sharpened my analytical skills and proficiency in handling large datasets and complex models.
 
